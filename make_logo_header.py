@@ -1,4 +1,4 @@
-# tools/make_logo_header.py
+    #tools/make_logo_header.py
 # Usage: python3 tools/make_logo_header.py path/to/logo.png path/to/output/logo.h
 from PIL import Image
 import sys
